@@ -1,0 +1,179 @@
+PersonnageID,Personnage,NationaliteID,PersonnageTypeID,Occupation
+1,Abraracourcix,13,1,Chef du «Village des fous»
+2,Absolumentexclus,23,2,Cadeau d’anniversaire d’Obélix
+3,Acidenitrix,13,1,Traître à tête de hareng saur toujours prêt à vous faire une queue de poisson
+4,Agecanonix,13,1,Doyen du village
+5,Alambix,13,1,Commerce de vins et charbons à l’entrée de Gergovie
+6,Amérix,13,1,"Fabricant de serpes renommé, cousin et portrait craché d’Obélix... en version mini, menu et chétif!"
+7,Amnésix,13,1,Druide expert en secours psychologique reconverti dans la mise en couleurs
+8,Amonbofis,9,3,Architecte égyptien qui veut contrecarrer le travail de Numérobis
+9,Anglaigus,23,2,Jeune et brillant architecte malheureusement mordu aux fesses par Idéfix
+10,Aniline,14,1,Nourrice de Fanzine
+11,Aplusbégalix,12,1,Chef «Gallo-Romain» ayant osé défier Abraracourcix dans un combat des chefs demeuré célèbre
+12,Assurancetourix,13,1,"Barde, instituteur et souffre-douleur"
+13,Astérix,13,1,"Mythe, copain d’Obélix"
+14,Astérus,23,2,Légionnaire Romain aux moustaches non règlementaires
+15,Astronomix,13,1,Papa d’Astérix
+16,Avoranfix,13,1,Trafiquant de serpes d’or
+17,Baba,22,3,Vigie des pirates et percussionniste qui a le ’ythme dans la peau
+18,Barbe Rouge,22,3,Gentil Organisateur de croisières divertissantes
+19,Barométrix,13,1,Druide dont les inventions se répandent comme une traînée de poudre
+20,Batdaf,20,3,Guerrier normand
+21,Beaufix,13,1,Chef clandestin de la ville de Lugdunum
+22,Berlix,13,1,Professeur de langues «vivantes» (le latin en particulier!)
+23,Biscornus,23,2,Centurion du camp de Babaorum
+24,Bonemine,14,1,Femme du chef du village
+25,Bonusmalus,23,2,Préfet de Condate
+26,Boufiltre,14,1,Assistante qui fait son travail sans mégoter
+27,Briseradius,23,2,Dresseur de gladiateurs reconverti dans la dentelle
+28,Brutus,23,2,Fils à Papa
+29,Caius Aérobus,23,2,Fin stratège perturbé par les plans compliqués de Tullius Detritus
+30,Caius Bonus,23,2,Centurion qui fut à un cheveu de découvrir le secret de la potion magique
+31,Caius Eucaliptus,23,2,"Chargé de percevoir les impôts, taxes, amendes, péages et autres redevances de la province de Condate"
+32,Caius Joligibus,23,2,Le «pire tire-au-flanc» de la légion romaine
+33,Caius Marchéopus,23,2,Légionnaire qui a du chien
+34,Caius Obtus,23,2,Producteur de spectacles burlesques malgré lui
+35,Caius Roideprus,23,2,Gouverneur du palais de Londinium
+36,Caius Saugrenus,23,2,Jeune promu de la Nouvelle Ecole d’Affranchis de César
+37,Caius Soutienmordicus,23,2,Chef de la police secrète de César
+38,Caligula Alavacomgetepus,23,2,Préfet des Gaules
+39,Caligula Minus,23,2,Légionnaire romain déguisé en gaulois pour infiltrer le village
+40,Caliguliminix,23,2,Légionnaire romain déguisé en gaulois pour infiltrer le village
+41,Casseurdebric,15,3,Goth tapant sur Passmoilcric et tapé par Liric
+42,Catédralgotix,13,1,Ecolier gratifié d’un bon point pour son envie pressante d’aller au petit coin
+43,César Labeldecadix,13,1,"César méridional, patron de la taverne des Nautes, terreur de ces «fadas de Romaings»!"
+44,Césarion (Ptolémée XVI),24,3,Fils de César et Cléopâtre
+45,Cétaumatix,13,1,"Mélomane averti soucieux de protéger l’ouïe de ses condisciples, expert sanitaire en poissons"
+46,Cétyunix,13,1,Danseur gaulois
+47,Changéledix,13,1,Capitaine de navire qui connaît la musique
+48,Choléramorbus,23,2,Vil Romain délivré sur ordonnance (de César)
+49,Chorus,23,2,Général Romain qui sait se faire entendre
+50,Cicatrix,13,1,Fine fleur de druide
+51,Claudius Cornedurus,23,2,Etoile montante
+52,Claudius Malosinus,23,2,Questeur ou inspecteur des impôts
+53,Claudius Métrobus,23,2,G.O. des nuits lutéciennes
+54,Claudius Nonpossumus,23,2,Centurion chargé de surveiller Pépé
+55,Claudius Quintilius,23,2,Légionnaire du camp de Petitbonum
+56,Cléopâtre,10,3,Reine des reines
+57,Cloridric,15,3,Lâche interprète Goth qui rêve de se marier et d’avoir beaucoup de petits barbares
+58,Comix,13,1,Fils de Tournedix
+59,Coriza (Zaza),14,1,Fille d’Orthopédix et d’Angine
+60,Coudetric,15,3,Goth kidnappeur de druides
+61,Courdeténis,9,3,Egyptien reprenant du service dans la légion romaine
+62,Diagnostix,13,1,Druide aux petits soins
+63,Electric,15,3,Général Goth prêt à tout balayer sur son passage
+64,Encorutilfaluquejelesus,23,2,Préfet de Lugdunum précurseur du Petit Poucet
+65,Epidemaïs,21,3,Entrepreneur modèle
+66,Eponine,14,1,"Epouse de César Labeldecadix, sensible aux rondeurs d’Obélix"
+67,Erix,22,3,Stagiaire Pirate
+68,Faimoiducuscus,23,2,Romain romantique
+69,Faitexcus,23,2,Légionnaire très bête
+70,Falbala,14,1,Egérie d’Obélix
+71,Fanzine,14,1,Fille de Ségrégationnix
+72,Fercorus,23,2,Centurion pris au mot
+73,Flavia,25,2,Romaine menée en bateau
+74,Gélatine,14,1,Maman d’Obélix
+75,Ginfis,9,3,Espion dont César boit les paroles
+76,Goudurix,13,1,Neveu d’Abraracourcix
+77,Gracchus Cétinconcencus,23,2,Amiral en chef de l’Avé César
+78,Gracchus Garovirus,23,2,Gouverneur Romain de la ville de Condate
+79,Gracchus Nenjetépus,23,2,Centurion à sa maman
+80,Gracchus Pleindastus,23,2,Préfet de Lutèce trompant son ennui dans la consommation de poulet et le trafic de serpes d’or
+81,Gracchus Sextilius,23,2,Sentinelle du camp de Petitbonum
+82,Gueuselambix,3,3,Chef belge
+83,Guilus,23,2,Célèbre animateur du jeu de loterie
+84,Histéric,15,3,Goth énervé
+85,Homéopatix,13,1,Frère de Bonemine
+86,Hotelterminus,23,2,Centurion poussé à bout
+87,Hyapados,1,3,Grand prêtre d’Atlantide
+88,Idéfix,5,1,"Agent de protection de l’environnement, guide dans les pyramides"
+89,Ielosubmarine,14,1,Marchande de poisson
+90,Jolitorax,4,3,"Cousin germain breton d’Astérix, aux mains secouées par Obélix"
+91,Jules César,23,2,"Commentateur de la guerre des Gaules, grand pourvoyeur de citations impérissables"
+92,Julius Epinedecactus,23,2,"Chargé par Brutus de récupérer Césarion, fils de César et de Cléopâtre, et le faire disparaître pour être le seul héritier"
+93,Julius Humérus,23,2,Légionnaire tombé sur un os
+94,Julius Pompilius,23,2,Légionnaire du Camp de Petitbonum
+95,Kerøsen,27,3,Chef Viking
+96,Keskonrix,13,1,Jeune chasseur de marcassins
+97,Kiçàh,18,3,Fakir et chauffeur de tapis volant
+98,Kiwoàlàh,18,3,Gourou qui convoite le trône du rajah Cékouhaça
+99,Latraviata,25,2,Grande tragédienne du théâtre de Rome
+100,Le goûteur de Cléopâtre,9,3,Goûteur dégoûté par les recettes pâtissières d’Amonbofis
+101,Lentix,13,1,Truand ayant Toutatis à ses trousses
+102,Liric,15,3,Goth ayant trahi Cloridric avant de se voir trahi par son beau-frère Satiric
+103,Lucius Fleurdelotus,23,2,Envoyé spécial de César renvoyé par Astérix
+104,Lupus,23,2,Jeune loup de l’école de gladiateurs devenu doux comme un agneau
+105,Maestria,14,1,Barde au féminin
+106,Maître Panix,13,1,Nom sur l’enseigne d’une boutique de Massilia
+107,Manneken,2,3,Petit garçon belge
+108,Marcus Cubitus,23,2,Légionnaire tombé sur un os
+109,Marcus Sacapus,23,2,Légionnaire qui a du chien
+110,Milexcus,23,2,Légionnaire coincé dans les bouchons
+111,Misenplis,9,3,"Scribe à la situation bien assise, accroupie même"
+112,Mme Agecanonix,14,1,Femme d’Agecanonix
+113,Moralélastix,13,1,Escroc notoire et chef d’un village gaulois
+114,Motus,23,2,Général Romain connu pour ses prises de parole
+115,Nenpeuplus,23,2,Général Romain déprimé
+116,Numérobis,9,3,"Architecte allergique aux crocodiles, même sacrés"
+117,Obélix,13,1,"Pas gros, tombé dedans quand il était petit, copain d’Astérix"
+118,Obélodalix,13,1,"Père d’Obélix, commerçant"
+119,Obélus,23,2,Légionnaire Romain aux moustaches non règlementaires
+120,Ocatarinetabellatchitchix,8,3,"Chef de clan, expert en fromages explosifs"
+121,Odalix,13,1,Cuisinier empoisonneur
+122,Olaf Grossebaf,20,3,Chef des guerriers normands
+123,Ordralfabétix,13,1,Marchand de poissons pas frais du village
+124,Orthopédix,13,1,Aubergiste
+125,Pacotéalargus,23,2,Soldat romain assommé sans modération par Ginfis
+126,Pamplemus,23,2,Légionnaire Romain pressé peu friand de l’art et la manière Gothique
+127,Panoramix,13,1,"Druide, inventeur de potions en tous genres et détenteur de la sagesse gauloise"
+128,Pardessus,23,2,Légionnaire habillé pour l’hiver par des barbares en balade à la frontière
+129,Pasdfric,15,3,Barbare sensible
+130,Passmoilcric,15,3,Chef d’une faction Goth
+131,Pépé,17,3,Représentant du tempérament hispanique
+132,Périféric,15,3,Goth souvent amphorisé
+133,Petilarus,23,2,Chef de patrouille Romain à la recherche d’Astérix et Obélix
+134,Plaincontrix,13,1,Restaurateur Gaulois à Rome rêvant de devenir propriétaire d’un restaurant Romain en Gaule!
+135,Plexus,23,2,Brigand romain pris pour Astérix par le Général Motus
+136,Praline,14,1,Maman d’Astérix
+137,Préfix,13,1,Druide si puissant qu’il fait partout la pluie et le beau temps
+138,Prolix,13,1,Devin imaginaire
+139,Pronostix,13,1,Druide diététicien fan de grains de raisin
+140,Quatrédeusix,13,1,Brigand prêt à tout pour vendre un Gaulois pour le prix de deux
+141,Quelquilfus,23,2,Légionnaire perdu dans les rues de Lugdunum
+142,Quintilius,23,2,Centurion Romain resté célèbre pour sa bêtise
+143,Radius,23,2,Brigand Romain tombé sur un os
+144,Rahãzade,19,3,Fille du rajah Cékouhaçà menacée de sacrifice
+145,Rictus,23,2,Responsable stressé du matériel
+146,Saingésix,13,1,Marchand de vin inconnu
+147,Sanglier,26,3,"Fidèle compagnon de tous les banquets, habitant de la forêt"
+148,Satiric,15,3,"Beau-frère de Liric, à qui il a tendu un guet-apens"
+149,Savancosinus,23,2,Fin psychologue
+150,Sciencinfus,23,2,Légionnaire privé de Chipolata
+151,Ségrégationnix,13,1,Chef par la moitié droite d’un village gaulois. Il est le père de la jolie Fanzine
+152,Septantesix,2,1,"Druide belge, ami de Panoramix"
+153,Soupalognon y Crouton,17,3,Papa de Pépé
+154,Spartakis,11,3,Chef de la rébellion des esclaves
+155,Suelburnus,23,2,Gouverneur de la Corse
+156,Téléféric,15,3,Chef suprême Goth dont la vie ne tient qu’à un fil
+157,Théoric,15,3,Goth impraticable
+158,Tikedbus,23,2,Dépanneur accidenté par Obélix
+159,Tournedix,13,1,Elu chef par la moitié gauche d’un village gaulois. Il est le père de Comix
+160,Tournevis,9,3,Scribe et sbire d’Amonbofis qui a réécrit l’histoire de la coiffure.
+161,Tragicomix,13,1,Fiancé de Falbala enrôlé dans l’armée romaine
+162,Triple Patte,22,3,Pirate philosophe
+163,Tullius Détrius,23,2,Agent spécial envoyé par César au village gaulois
+164,Tullius Fanfrelus,23,2,Envoyé spécial de Jules César
+165,Tullius Octopus,23,2,Légionnaire fan du Cirque
+166,Tumehéris,9,3,Commandant d’un bateau où l’on donne ses ordres en hiéroglyphes
+167,Yenapus,23,2,Préfet de Tolosa (Toulouse)
+168,Zebigbos,4,3,Chef des résistants bretons
+169,Zérozérosix,13,1,Fine mouche
+170,Ziguépus,23,2,Gardien de prison qui ne s’entend pas avec Assurancetourix
+171,Zøødvinsen,6,3,Danois aux abois
+172,Zurix,16,3,Responsable d’une banque
+173,Chanteclairix,7,1,Coq sportif
+174,Bégonia,25,2,Belle plante romaine
+175,Dactilograf,20,3,Normand qui fait impression
+176,Sténograf,20,3,Normand qui fait impression
+177,Mac Oloch,28,3,Picte romantique
+178,Camomilla,28,3,Princesse picte
