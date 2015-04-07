@@ -1,4 +1,6 @@
 # asterix-neo4j
+![alt tag] (https://raw.githubusercontent.com/sfrechette/asterix-neo4j/master/Asterix_logo.png)
+
 Asterix Graph Model - Neo4j
 
 ![alt tag](https://raw.githubusercontent.com/sfrechette/asterix-neo4j/master/graphmodel_asterix.png)
@@ -9,5 +11,5 @@ unzip and restore the the following backup file: graph.db/asterix-2.2.0.graph.db
 
 Source data: http://www.asterix.com 
 
-Astérix, all characters and images are © 2015 Les Editions Albert René
+Astérix, all characters, images and logos are © 2015 Les Editions Albert René
 
