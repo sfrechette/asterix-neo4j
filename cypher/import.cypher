@@ -79,7 +79,7 @@ MERGE (personnage)-[:NATIONALITE]->(nationalite);
 USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS FROM "file:data/personnages.csv" AS row
 MATCH (personnage:Personnage {personnageId: row.PersonnageID})
-MATCH (personnagetype:PersonnageType {personnagTypeId: row.PersonnageTypeID})
+MATCH (personnagetype:PersonnageType {personnageTypeId: row.PersonnageTypeID})
 MERGE (personnage)-[:PERSONNAGE_TYPE]->(personnagetype);
 
 // Create relationships: Personnage to Album
